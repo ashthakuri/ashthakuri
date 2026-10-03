@@ -4,34 +4,53 @@
 
 BCA Graduate | SQL | Python | Excel | Power BI
 
-Currently building my skills in Data Analytics through
-practical projects and hands-on learning.
+I am currently building my career in Data Analytics
+through structured learning, practical projects,
+and hands-on problem solving.
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 BCA Graduate
+- 📊 Currently learning Data Analytics
+- 🗄️ Focusing on SQL and data analysis
+- 🐍 Learning Python for data analysis
+- 📈 Building skills in Excel and Power BI
+- 🚀 Interested in turning data into meaningful insights
 
 ---
 
 ## 🛠️ Skills
 
+### Data Analytics
 - SQL
-- Python
 - Excel
 - Power BI
-
----
-
-## 📊 Currently Learning
-
-- Data Analysis
-- SQL
 - Python
-- Power BI
-- Advanced Excel
+
+### Currently Learning
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Business Problem Solving
 
 ---
 
-## 🔗 Connect With Me
+## 📚 My Learning Journey
 
-- GitHub: https://github.com/ashthakuri
-
+```text
+SQL
+ ↓
+Python
+ ↓
+Excel
+ ↓
+Power BI
+ ↓
+Data Analytics Projects
+ ↓
+Job Ready Data Analyst
 <!--
 **ashthakuri/ashthakuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
