@@ -1,4 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ashok Thakur 👋
+
+### Aspiring Data Analyst
+
+BCA Graduate | SQL | Python | Excel | Power BI
+
+Currently building my skills in Data Analytics through
+practical projects and hands-on learning.
+
+---
+
+## 🛠️ Skills
+
+- SQL
+- Python
+- Excel
+- Power BI
+
+---
+
+## 📊 Currently Learning
+
+- Data Analysis
+- SQL
+- Python
+- Power BI
+- Advanced Excel
+
+---
+
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/ashthakuri
 
 <!--
 **ashthakuri/ashthakuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
